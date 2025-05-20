@@ -1,0 +1,210 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.637, 41.910] },
+      "properties": {
+        "name": "Lincoln Park Zoo",
+        "region": "North",
+        "score": 84,
+        "visits": 1200,
+        "url": "https://www.google.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.683, 41.951] },
+      "properties": {
+        "name": "Ravenswood Station",
+        "region": "North",
+        "score": 71,
+        "visits": 820
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.624, 41.893] },
+      "properties": {
+        "name": "Navy Pier",
+        "region": "East",
+        "score": 95,
+        "visits": 3050,
+        "url": "https://google.com/maps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.606, 41.791] },
+      "properties": {
+        "name": "Museum of Science & Industry",
+        "region": "South",
+        "score": 88,
+        "visits": 2500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.685, 41.854] },
+      "properties": {
+        "name": "Pilsen Art District",
+        "region": "West",
+        "score": 77,
+        "visits": 1340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.675, 41.978] },
+      "properties": {
+        "name": "Edgewater Beach",
+        "region": "North",
+        "score": 64,
+        "visits": 540
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.619, 41.835] },
+      "properties": {
+        "name": "Chinatown",
+        "region": "South",
+        "score": 89,
+        "visits": 1990
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.651, 41.871] },
+      "properties": {
+        "name": "UIC Campus",
+        "region": "West",
+        "score": 74,
+        "visits": 880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.629, 41.886] },
+      "properties": {
+        "name": "Millennium Park",
+        "region": "East",
+        "score": 92,
+        "visits": 4000,
+        "url": "https://www.google.com/search?q=millennium+park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.671, 41.909] },
+      "properties": {
+        "name": "Wicker Park",
+        "region": "North",
+        "score": 68,
+        "visits": 1160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.700, 41.794] },
+      "properties": {
+        "name": "Marquette Park",
+        "region": "South",
+        "score": 73,
+        "visits": 1020
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.643, 41.844] },
+      "properties": {
+        "name": "Bridgeport",
+        "region": "South",
+        "score": 79,
+        "visits": 940
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.688, 41.882] },
+      "properties": {
+        "name": "Humboldt Park",
+        "region": "West",
+        "score": 66,
+        "visits": 890
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.674, 41.923] },
+      "properties": {
+        "name": "Bucktown",
+        "region": "North",
+        "score": 70,
+        "visits": 970,
+        "url": "https://www.google.com/maps?q=bucktown+chicago"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.616, 41.857] },
+      "properties": {
+        "name": "McCormick Place",
+        "region": "East",
+        "score": 80,
+        "visits": 2100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.628, 41.870] },
+      "properties": {
+        "name": "The Loop",
+        "region": "East",
+        "score": 91,
+        "visits": 3850
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.683, 41.885] },
+      "properties": {
+        "name": "Ukrainian Village",
+        "region": "West",
+        "score": 69,
+        "visits": 720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.670, 41.900] },
+      "properties": {
+        "name": "West Town",
+        "region": "West",
+        "score": 75,
+        "visits": 910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.623, 41.881] },
+      "properties": {
+        "name": "Art Institute",
+        "region": "East",
+        "score": 97,
+        "visits": 4300,
+        "url": "https://www.google.com/search?q=art+institute+chicago"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.641, 41.964] },
+      "properties": {
+        "name": "Uptown",
+        "region": "North",
+        "score": 65,
+        "visits": 580
+      }
+    }
+  ]
+}
