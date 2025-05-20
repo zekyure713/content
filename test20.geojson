@@ -198,6 +198,17 @@
     },
     {
       "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-87.630, 41.881] },
+      "properties": {
+        "name": "Art Institute2",
+        "region": "South",
+        "score": 97,
+        "visits": 4300,
+        "url": "https://www.google.com/search?q=art+institute+chicago"
+      }
+    },
+    {
+      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-87.641, 41.964] },
       "properties": {
         "name": "Uptown",
