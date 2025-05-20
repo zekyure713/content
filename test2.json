@@ -1,0 +1,17 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6298, 41.8781]
+      },
+      "properties": {
+        "name": "Chicago",
+        "type": "city",
+        "population": 2700000
+      }
+    }
+  ]
+}
