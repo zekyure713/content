@@ -191,6 +191,7 @@
       "properties": {
         "name": "Art Institute",
         "region": "East",
+        "random": "testfield",
         "score": 97,
         "visits": 4300,
         "url": "https://www.google.com/search?q=art+institute+chicago"
@@ -204,7 +205,17 @@
         "region": "South",
         "score": 97,
         "visits": 4300,
-        "url": "https://www.google.com/search?q=art+institute+chicago"
+        "url": "https://www.google.com/search?q=art+institute+chicago",
+        "documents": [
+          {
+            "name": "document1",
+            "url": "https://webapps1int.chicago.gov/ChicagoTif/#:~:text=Redevelopment%20Plan%20(PDF)"
+          },
+          {
+            "name": "document2",
+            "url": "https://webapps1int.chicago.gov/ChicagoTif/#:~:text=Redevelopment%20Plan%20(PDF)-,Annual%20TIF%20Reports,-Designating%20Ordinance"
+          }
+        ]
       }
     },
     {
