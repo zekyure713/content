@@ -11,10 +11,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.637,
-        41.91
-      ],
+      "x": -87.637,
+      "y": 41.91,
       "spatialReference": {
         "wkid": 4326
       }
@@ -30,10 +28,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.683,
-        41.951
-      ],
+      "x": -87.683,
+      "y": 41.951,
       "spatialReference": {
         "wkid": 4326
       }
@@ -50,10 +46,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.624,
-        41.893
-      ],
+      "x": -87.624,
+      "y": 41.893,
       "spatialReference": {
         "wkid": 4326
       }
@@ -69,10 +63,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.606,
-        41.791
-      ],
+      "x": -87.606,
+      "y": 41.791,
       "spatialReference": {
         "wkid": 4326
       }
@@ -88,10 +80,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.685,
-        41.854
-      ],
+      "x": -87.685,
+      "y": 41.854,
       "spatialReference": {
         "wkid": 4326
       }
@@ -107,10 +97,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.675,
-        41.978
-      ],
+      "x": -87.675,
+      "y": 41.978,
       "spatialReference": {
         "wkid": 4326
       }
@@ -126,10 +114,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.619,
-        41.835
-      ],
+      "x": -87.619,
+      "y": 41.835,
       "spatialReference": {
         "wkid": 4326
       }
@@ -145,10 +131,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.651,
-        41.871
-      ],
+      "x": -87.651,
+      "y": 41.871,
       "spatialReference": {
         "wkid": 4326
       }
@@ -165,10 +149,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.629,
-        41.886
-      ],
+      "x": -87.629,
+      "y": 41.886,
       "spatialReference": {
         "wkid": 4326
       }
@@ -184,10 +166,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.671,
-        41.909
-      ],
+      "x": -87.671,
+      "y": 41.909,
       "spatialReference": {
         "wkid": 4326
       }
@@ -203,10 +183,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.7,
-        41.794
-      ],
+      "x": -87.7,
+      "y": 41.794,
       "spatialReference": {
         "wkid": 4326
       }
@@ -222,10 +200,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.643,
-        41.844
-      ],
+      "x": -87.643,
+      "y": 41.844,
       "spatialReference": {
         "wkid": 4326
       }
@@ -241,10 +217,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.688,
-        41.882
-      ],
+      "x": -87.688,
+      "y": 41.882,
       "spatialReference": {
         "wkid": 4326
       }
@@ -261,10 +235,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.674,
-        41.923
-      ],
+      "x": -87.674,
+      "y": 41.923,
       "spatialReference": {
         "wkid": 4326
       }
@@ -280,10 +252,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.616,
-        41.857
-      ],
+      "x": -87.616,
+      "y": 41.857,
       "spatialReference": {
         "wkid": 4326
       }
@@ -299,10 +269,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.628,
-        41.87
-      ],
+      "x": -87.628,
+      "y": 41.87,
       "spatialReference": {
         "wkid": 4326
       }
@@ -318,10 +286,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.683,
-        41.885
-      ],
+      "x": -87.683,
+      "y": 41.885,
       "spatialReference": {
         "wkid": 4326
       }
@@ -337,10 +303,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.67,
-        41.9
-      ],
+      "x": -87.67,
+      "y": 41.9,
       "spatialReference": {
         "wkid": 4326
       }
@@ -358,10 +322,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.623,
-        41.881
-      ],
+      "x": -87.623,
+      "y": 41.881,
       "spatialReference": {
         "wkid": 4326
       }
@@ -388,10 +350,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.63,
-        41.881
-      ],
+      "x": -87.63,
+      "y": 41.881,
       "spatialReference": {
         "wkid": 4326
       }
@@ -407,10 +367,8 @@
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [
-        -87.641,
-        41.964
-      ],
+      "x": -87.641,
+      "y": 41.964,
       "spatialReference": {
         "wkid": 4326
       }
