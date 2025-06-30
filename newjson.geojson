@@ -9,7 +9,8 @@
         "region": "North",
         "score": 84,
         "visits": 1200,
-        "url": "https://www.google.com"
+        "url": "https://www.google.com",
+        "new_field": "new value"
       }
     },
     {
