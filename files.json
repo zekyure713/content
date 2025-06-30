@@ -1,0 +1,44 @@
+[
+	{
+		"attributes": {
+			"classkey": 1012,
+			"name": "document1",
+			"url": "https://webapps1int.chicago.gov/ChicagoTif/#:~:text=Redevelopment%20Plan%20(PDF)"
+		}
+	},
+	{
+		"attributes": {
+			"classkey": 1012,
+			"name": "document3",
+			"url": "https://webapps1int.chicago.gov/ChicagoTif/#:~:text=Redevelopment%20Plan%20(PDF)-,Annual%20TIF%20Reports,-Designating%20Ordinance"
+		}
+	},
+	{
+		"attributes": {
+			"classkey": 1158,
+			"name": "document1",
+			"url": "https://webapps1int.chicago.gov/ChicagoTif/#:~:text=Redevelopment%20Plan%20(PDF)"
+		}
+	},
+	{
+		"attributes": {
+			"classkey": 1158,
+			"name": "document3",
+			"url": "https://webapps1int.chicago.gov/ChicagoTif/#:~:text=Redevelopment%20Plan%20(PDF)-,Annual%20TIF%20Reports,-Designating%20Ordinance"
+		}
+	},
+	{
+		"attributes": {
+			"classkey": 1103,
+			"name": "document1",
+			"url": "https://webapps1int.chicago.gov/ChicagoTif/#:~:text=Redevelopment%20Plan%20(PDF)"
+		}
+	},
+	{
+		"attributes": {
+			"classkey": 1131,
+			"name": "document3",
+			"url": "https://webapps1int.chicago.gov/ChicagoTif/#:~:text=Redevelopment%20Plan%20(PDF)-,Annual%20TIF%20Reports,-Designating%20Ordinance"
+		}
+	}
+]
