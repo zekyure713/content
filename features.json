@@ -1,0 +1,419 @@
+[
+  {
+    "attributes": {
+      "name": "Lincoln Park Zoo",
+      "region": "North",
+      "score": 84,
+      "visits": 1200,
+      "url": "https://www.google.com",
+      "new_field": "new value",
+      "classkey": 1107
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.637,
+        41.91
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Ravenswood Station",
+      "region": "North",
+      "score": 71,
+      "visits": 820,
+      "classkey": 1095
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.683,
+        41.951
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Navy Pier",
+      "region": "East",
+      "score": 95,
+      "visits": 3050,
+      "url": "https://google.com/maps",
+      "classkey": 1040
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.624,
+        41.893
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Museum of Science & Industry",
+      "region": "South",
+      "score": 88,
+      "visits": 2500,
+      "classkey": 1014
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.606,
+        41.791
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Pilsen Art District",
+      "region": "West",
+      "score": 77,
+      "visits": 1340,
+      "classkey": 1123
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.685,
+        41.854
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Edgewater Beach",
+      "region": "North",
+      "score": 64,
+      "visits": 540,
+      "classkey": 1008
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.675,
+        41.978
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Chinatown",
+      "region": "South",
+      "score": 89,
+      "visits": 1990,
+      "classkey": 1028
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.619,
+        41.835
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "UIC Campus",
+      "region": "West",
+      "score": 74,
+      "visits": 880,
+      "classkey": 1064
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.651,
+        41.871
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Millennium Park",
+      "region": "East",
+      "score": 92,
+      "visits": 4000,
+      "url": "https://www.google.com/search?q=millennium+park",
+      "classkey": 1119
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.629,
+        41.886
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Wicker Park",
+      "region": "North",
+      "score": 68,
+      "visits": 1160,
+      "classkey": 1066
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.671,
+        41.909
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Marquette Park",
+      "region": "South",
+      "score": 73,
+      "visits": 1020,
+      "classkey": 1049
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.7,
+        41.794
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Bridgeport",
+      "region": "South",
+      "score": 79,
+      "visits": 940,
+      "classkey": 1135
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.643,
+        41.844
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Humboldt Park",
+      "region": "West",
+      "score": 66,
+      "visits": 890,
+      "classkey": 1036
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.688,
+        41.882
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Bucktown",
+      "region": "North",
+      "score": 70,
+      "visits": 970,
+      "url": "https://www.google.com/maps?q=bucktown+chicago",
+      "classkey": 1131
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.674,
+        41.923
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "McCormick Place",
+      "region": "East",
+      "score": 80,
+      "visits": 2100,
+      "classkey": 1016
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.616,
+        41.857
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "The Loop",
+      "region": "East",
+      "score": 91,
+      "visits": 3850,
+      "classkey": 1094
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.628,
+        41.87
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Ukrainian Village",
+      "region": "West",
+      "score": 69,
+      "visits": 720,
+      "classkey": 1103
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.683,
+        41.885
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "West Town",
+      "region": "West",
+      "score": 75,
+      "visits": 910,
+      "classkey": 1206
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.67,
+        41.9
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Art Institute",
+      "region": "East",
+      "random": "testfield",
+      "score": 97,
+      "visits": 4300,
+      "url": "https://www.google.com/search?q=art+institute+chicago",
+      "classkey": 1172
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.623,
+        41.881
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Art Institute2",
+      "region": "North",
+      "score": 98,
+      "visits": 4300,
+      "url": "https://www.google.com/search?q=art+institute+chicago",
+      "documents": [
+        {
+          "name": "document1",
+          "url": "https://webapps1int.chicago.gov/ChicagoTif/#:~:text=Redevelopment%20Plan%20(PDF)"
+        },
+        {
+          "name": "document2",
+          "url": "https://webapps1int.chicago.gov/ChicagoTif/#:~:text=Redevelopment%20Plan%20(PDF)-,Annual%20TIF%20Reports,-Designating%20Ordinance"
+        }
+      ],
+      "classkey": 1158
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.63,
+        41.881
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  },
+  {
+    "attributes": {
+      "name": "Uptown",
+      "region": "North",
+      "score": 65,
+      "visits": 580,
+      "classkey": 1012
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.641,
+        41.964
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    }
+  }
+]
